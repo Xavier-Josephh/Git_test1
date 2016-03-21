@@ -7,9 +7,7 @@ public class Nonstatic
    {
 	   System.out.println("hi");
    }
-   
-   
-   
+
   public static void main(String[] args) 
    
    {
@@ -17,5 +15,5 @@ public class Nonstatic
 	    obj.velankani();
 	    System.out.println(obj.a);
    }
-   
+   //testing
 }
