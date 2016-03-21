@@ -8,7 +8,9 @@ public class Nonstatic
 	   System.out.println("hi");
    }
    
-   public static void main(String[] args) 
+   
+   
+  public static void main(String[] args) 
    
    {
 	    Nonstatic obj = new Nonstatic();
