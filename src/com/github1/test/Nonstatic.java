@@ -16,4 +16,5 @@ public class Nonstatic
 	    System.out.println(obj.a);
    }
    //testing this
+   // to check whether this is visible in eclipse
 }
