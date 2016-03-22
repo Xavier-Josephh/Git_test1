@@ -3,7 +3,7 @@ package com.github1.test;
 public class Nonstatic 
 { 
    int a=9;
-   void Gitest()
+   void gitest()
    {
 	   System.out.println("hi");
    }
@@ -12,7 +12,7 @@ public class Nonstatic
    
    {
 	    Nonstatic obj = new Nonstatic();
-	    obj.velankani();
+	    obj.gitest();
 	    System.out.println(obj.a);
    }
    //testing this
