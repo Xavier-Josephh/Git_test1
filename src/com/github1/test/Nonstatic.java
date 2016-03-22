@@ -3,7 +3,7 @@ package com.github1.test;
 public class Nonstatic 
 { 
    int a=9;
-   void velankani()
+   void Gitest()
    {
 	   System.out.println("hi");
    }
