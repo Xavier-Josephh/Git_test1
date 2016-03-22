@@ -15,5 +15,5 @@ public class Nonstatic
 	    obj.velankani();
 	    System.out.println(obj.a);
    }
-   //testing
+   //testing this
 }
